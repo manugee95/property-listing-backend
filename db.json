@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Condo",
+    "address": "123 Main St, Toronto",
+    "price": "$500,000",
+    "propertyType": "Condo",
+    "imageUrl": "/house_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Modern House",
+    "address": "456 Oak St, Vancouver",
+    "price": "$1,200,000",
+    "propertyType": "House",
+    "imageUrl": "/house_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "New Modern House",
+    "address": "123 Oak St, Vancouver",
+    "price": "$700,000",
+    "propertyType": "House",
+    "imageUrl": "/house_1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Condo Luxury",
+    "address": "456 Main St, Toronto",
+    "price": "$950,000",
+    "propertyType": "Condo",
+    "imageUrl": "/house_1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bungalow House",
+    "address": "456 Oak St, Vancouver",
+    "price": "$200,000",
+    "propertyType": "House",
+    "imageUrl": "/house_1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Modern Condo",
+    "address": "333 Finn St, Vancouver",
+    "price": "$380,000",
+    "propertyType": "Condo",
+    "imageUrl": "/house_1.jpg"
+  }
+]
